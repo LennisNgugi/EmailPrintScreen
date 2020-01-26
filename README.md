@@ -1,5 +1,5 @@
 # EmailPrintScreen
-The script takes a printscreen and emails it to selected email addresses
+The script takes a printscreen and emails, useful for users with computers that crash often.
 
 # Requirements 
 <p>pip3 install pyautogui</p>
